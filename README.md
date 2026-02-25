@@ -1,14 +1,14 @@
-# Hi, I’m Francis Omondi 👋
+# Hi, I’m Francis Omondi 
 
-**Senior Node.js / React Developer | Remote-Ready**
+** Node.js / React Developer **
 
-I’m a solution-driven software developer with 5+ years of experience building scalable, high-performance web applications using modern JavaScript technologies. I specialize in **Node.js, React, Next.js, and the MERN stack**, with a strong focus on clean architecture, performance, and real-world usability.
+I’m a solution-driven software developer with 5+ years of experience building scalable, high-performance web applications using modern JavaScript technologies. I specialize in **Node.js, React, and the MERN stack**, with a strong focus on clean architecture, performance, and real-world usability.
 
 I enjoy working with **remote-first teams**, collaborating across time zones, and taking ownership of features from idea to production.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend**  
 React.js · Next.js · HTML5 · CSS3 · Tailwind CSS
@@ -24,7 +24,7 @@ Git · GitHub · Postman · CI/CD basics
 
 ---
 
-## 🧠 What I’m Good At
+## What I’m Good At
 
 * Building scalable and maintainable React & Next.js applications
 * Designing clean, secure Node.js REST APIs

@@ -11,7 +11,7 @@ I enjoy working with **remote-first teams**, collaborating across time zones, an
 ## Tech Stack
 
 **Frontend**  
-React.js · Next.js · HTML5 · CSS3 · Tailwind CSS
+React.js · HTML5 · CSS3 · Tailwind CSS
 
 **Backend**  
 Node.js · Express.js · REST APIs

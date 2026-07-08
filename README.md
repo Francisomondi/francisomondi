@@ -1,8 +1,8 @@
-# Hi, I’m Francis Omondi 
+# Hi, I’m Francis Odero Omondi 
 
-** Node.js / React Developer **
+** Full stack software enginner **
 
-I’m a solution-driven software developer with 5+ years of experience building scalable, high-performance web applications using modern JavaScript technologies. I specialize in **Node.js, React, and the MERN stack**, with a strong focus on clean architecture, performance, and real-world usability.
+I’m a solution-driven software developer with 5+ years of experience building scalable, high-performance web and Mobile applications using modern JavaScript technologies. I specialize in **React native, Node.js, React, and the MERN stack**, with a strong focus on clean architecture, performance, and real-world usability.
 
 I enjoy working with **remote-first teams**, collaborating across time zones, and taking ownership of features from idea to production.
 
@@ -18,6 +18,8 @@ Node.js · Express.js · REST APIs
 
 **Databases**  
 MongoDB · MySQL
+**Mobile Applications**  
+React native · MySQL · Supabase 
 
 **Tools & Workflow**  
 Git · GitHub · Postman · CI/CD basics
@@ -26,7 +28,7 @@ Git · GitHub · Postman · CI/CD basics
 
 ## What I’m Good At
 
-* Building scalable and maintainable React & Next.js applications
+* Building scalable and maintainable React ,Nodejs and React Native applications
 * Designing clean, secure Node.js REST APIs
 * Performance optimization and debugging
 * Translating business requirements into technical solutions
@@ -36,7 +38,7 @@ Git · GitHub · Postman · CI/CD basics
 
 ## 💼 Selected Work
 
-🔹 **Full-Stack Web Applications**  
+🔹 **Full-Stack Web & Mobile Applications**  
 End-to-end MERN applications with authentication, dashboards, APIs, and optimized UI.
 
 🔹 **SaaS & Business Platforms**  

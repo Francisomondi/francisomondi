@@ -1,6 +1,6 @@
 # Hi, I’m Francis Odero Omondi 
 
-** Full stack software enginner **
+**Full stack software enginner**
 
 I’m a solution-driven software developer with 5+ years of experience building scalable, high-performance web and Mobile applications using modern JavaScript technologies. I specialize in **React native, Node.js, React, and the MERN stack**, with a strong focus on clean architecture, performance, and real-world usability.
 

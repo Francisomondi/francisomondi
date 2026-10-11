@@ -18,6 +18,7 @@ Node.js · Express.js · REST APIs
 
 **Databases**  
 MongoDB · MySQL
+
 **Mobile Applications**  
 React native · MySQL · Supabase 
 
@@ -36,7 +37,7 @@ Git · GitHub · Postman · CI/CD basics
 
 ---
 
-## 💼 Selected Work
+##  Selected Work
 
 🔹 **Full-Stack Web & Mobile Applications**  
 End-to-end MERN applications with authentication, dashboards, APIs, and optimized UI.
@@ -47,11 +48,11 @@ Scalable systems with role-based access, payments, and third-party API integrati
 🔹 **Remote Client Projects**  
 Delivered production-ready solutions for local and international clients.
 
-> 📌 Check my pinned repositories below for real-world, production-style projects.
+>  Check my pinned repositories below for real-world, production-style projects.
 
 ---
 
-## 🌍 Open to Opportunities
+##  Open to Opportunities
 
 I’m currently open to:
 
